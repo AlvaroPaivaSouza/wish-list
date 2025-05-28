@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b5c358dd83712210007971a6feaad3ce" label="sdemo" max_length="40" name="x_1512764_sndemo_sdemo" type="collection">
+        <element default="true" label="Display " max_length="40" name="display" type="boolean"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
         <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element label="Item" mandatory="true" max_length="125" name="item" type="string"/>
         <index name="index">
             <element name="requester"/>
