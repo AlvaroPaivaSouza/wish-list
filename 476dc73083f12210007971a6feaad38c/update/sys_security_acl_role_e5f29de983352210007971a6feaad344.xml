@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 18:33:13</sys_created_on>
+        <sys_id>e5f29de983352210007971a6feaad344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1512764_sndemo_sdemo.x_1512764_sndemo.User</sys_name>
+        <sys_package display_value="sndemo" source="x_1512764_sndemo">476dc73083f12210007971a6feaad38c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sndemo">476dc73083f12210007971a6feaad38c</sys_scope>
+        <sys_security_acl display_value="x_1512764_sndemo_sdemo">d9f21de983352210007971a6feaad3c8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e5f29de983352210007971a6feaad344</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 18:33:13</sys_updated_on>
+        <sys_user_role display_value="x_1512764_sndemo.User" name="x_1512764_sndemo.User">de6211e983352210007971a6feaad38b</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
